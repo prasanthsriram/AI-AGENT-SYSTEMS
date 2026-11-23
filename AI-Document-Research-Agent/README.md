@@ -42,6 +42,8 @@ Imagine a 100-page PDF document.
 Instead of sending all 100 pages to Gemini for every question, we divide the document into smaller sections.
 
 Example:
+
+
 <img width="619" height="311" alt="image" src="https://github.com/user-attachments/assets/d994000d-0a80-4ebb-852d-efec1890a12c" />
 
 
